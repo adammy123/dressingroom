@@ -1,0 +1,57 @@
+.sidebar-header {
+    color: white;
+}
+
+.issues {
+    background-color: white;
+    font-size: x-large;
+}
+
+.problem-image{
+    border-radius: 15px;
+    width: 70%;
+}
+
+.problem {
+    margin-top: 10px;
+    padding: 15px;
+    border-radius: 30px;
+    height: 400px;
+    background-color: rgb(237, 158, 70);
+    color: black;
+    text-align: center;
+    font-size: small;
+}
+
+.problem-bodytype {
+    padding-top:20%;
+}
+
+.problem-sizing {
+    padding-top: 10%;
+}
+
+.blue{
+    border-top-color: #337ab7;
+    -webkit-tap-highlight-color: #337ab7;
+}
+
+.white {
+    border-top-color: white;
+}
+
+.help-us {
+    font-size: larger;
+}
+
+.demo {
+     background-color: rgb(237, 158, 70);
+}
+
+.heading {
+    color: black;
+}
+
+.solutions {
+    color: black;
+}
